@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+
+#NavBar{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.title{
+    height: 200px;
+    margin-top: 110px;
+    margin-left: 100px;
+    background: transparent;
+}
+
+.banner{
+    background-image: url('./Images/the\ worst\ witch.jpg');
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    position: scroll;
+    height: 800px;
+    width: 100%;
+    z-index: -5;
+    top:0%;
+    
+}
+.play{
+    width: 125px;
+    padding: 10px;
+    margin-left: 85px;
+    border-radius: 05px;
+}
+
+.Playimg{
+    background-color: transparent;
+    color: inherit;
+    height: 25px;
+}
+
+.info{
+    width: 175px;
+    padding: 10px;
+    margin-left: 15px;
+    border-radius: 05px;   
+}
+
+.Infoimg{
+    background-color: transparent;
+    color: initial;
+    height: 25px;
+}
+
+.storyline{
+    background-color: transparent;
+    color: white;
+    margin-left: 85px;
+    margin-bottom: 15px;
+}
