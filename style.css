@@ -59,6 +59,11 @@
     
 }
 
+.background-image{
+  filter: brightness(90%);
+
+}
+
 
 
 .carousel {
